@@ -101,7 +101,7 @@ function f(a, b, c, d) {
             return 1;
         }
         else {
-            return (num * factorial(num - 1));
+            return (num * factorial(num - 1)); //testGit
         }    
     }
     
